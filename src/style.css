@@ -126,4 +126,8 @@ body {
   .file-upload {
     max-width: 350px;
   }
+
+  .teachable {
+    max-width: 350px;
+  }
 }
